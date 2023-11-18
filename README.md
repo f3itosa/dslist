@@ -1,2 +1,2 @@
 # dslist
-Intensivão Java Spring - Prof, Nelio Alves. 
+Intensivão Java Spring.
